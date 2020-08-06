@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+	<a href="https://github.com/ST-Apps"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/st-apps?style=social"></a>	
+	<a href="https://www.linkedin.com/in/stefano-tenuta-b0baaaab/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://stackoverflow.com/users/1094430/steptnt"><img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/1094430?logo=stackexchange&style=social"></a>
+</p>
 
 <!--
 **ST-Apps/ST-Apps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
